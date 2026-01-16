@@ -13,4 +13,4 @@ According to the project requirements, the repository is organized as follows:
 
 logs./docs: Detailed mathematical documentation and a step-by-step replication guide.
 
-AI USAGE
+
